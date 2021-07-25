@@ -1,4 +1,4 @@
-# vwan
+# Azure Virtual WAN 
 This repository contains example code for Virtual WAN deployment. Below features are included in this lab 
 * Deployment of a Virtual WAN Resource 
 * deployment of two Virtual Hubs 
